@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-"""Prints a ``Hello World`` statement."""
+# -*- coding: utf-8 -*-
+"""Prints a ``Hello World!`` statement."""
 
 
 print "Hello KJDoles!"
